@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import React from "react";
 import App from "../Components/App/App";
 import Menu from "../Components/Menu/Menu";
-import Carousal from "../Components/Carousel/Carousel";
+import Banner from "../Components/Banner/Banner";
 import FeaturedImage from "../Components/FeaturedImage/FeaturedImage";
 import Info from "../Components/Info/Info";
 import Specialist from "../Components/Specialist/Specialist";
@@ -23,13 +23,12 @@ export default function Home(props:any)
         <div>
             {/* <App /> */}
             <Menu />
-            <Carousal />
+            <Banner />
             <FeaturedImage />
             <Info />
             <Specialist />
             <Partners />
             <InfrastructureServices />
-            {/* <ContactUs /> */}
             <Footer />
             
 
