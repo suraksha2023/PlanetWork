@@ -14,7 +14,7 @@ import Partners from "../Components/Partners/Partners";
 import InfrastructureServices from '../Components/InfrastructureServices/InfrastructureServices';
 import ContactUs from '../Components/ContactUs/ContactUs';
 import Footer from '../Components/Footer/Footer';
-import SocialIcons from '../Components/SocialIcons/SocialIcons';
+
 
 export default function Home(props:any)
 
@@ -31,7 +31,7 @@ export default function Home(props:any)
             <InfrastructureServices />
             {/* <ContactUs /> */}
             <Footer />
-            <SocialIcons />
+            
 
 
         </div>
