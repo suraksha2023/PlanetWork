@@ -12,7 +12,6 @@ import Info from "../Components/Info/Info";
 import Specialist from "../Components/Specialist/Specialist";
 import Partners from "../Components/Partners/Partners";
 import InfrastructureServices from '../Components/InfrastructureServices/InfrastructureServices';
-import ContactUs from '../Components/ContactUs/ContactUs';
 import Footer from '../Components/Footer/Footer';
 
 
