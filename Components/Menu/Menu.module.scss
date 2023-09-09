@@ -1,0 +1,29 @@
+.menu{
+  padding: 25px;
+  .navMenu{
+      ul{
+          list-style: none;
+          display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+        padding:0px;
+        
+      }
+
+      li{
+          display: block;
+          padding-left: 80px;
+          
+        }
+  }
+
+
+  .Btn{
+    float: right;
+    background: #001D3D;
+    color:white;
+    padding-right: 10px;
+    
+  }
+}

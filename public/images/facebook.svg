@@ -1,0 +1,14 @@
+<svg width="8" height="17" viewBox="0 0 8 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="8" height="17" fill="#1E1E1E"/>
+<g id="Website" clip-path="url(#clip0_0_1)">
+<rect width="1728" height="5275" transform="translate(-1238 -5211)" fill="white"/>
+<rect id="Rectangle 23" x="-1238.5" y="-435.5" width="1728" height="580" stroke="#E7E7E7"/>
+<circle id="Ellipse 2" cx="4.5" cy="8.5" r="17.5" fill="#4766AD" fill-opacity="0.1"/>
+<path id="facebook-[#176]" fill-rule="evenodd" clip-rule="evenodd" d="M5.45703 17V9.35H7.64294L8 5.95H5.45703V4.29399C5.45703 3.41849 5.47808 2.55 6.62952 2.55H7.79575V0.119116C7.79575 0.0825662 6.79399 0 5.78054 0C3.664 0 2.33872 1.40862 2.33872 3.99517V5.95H0V9.35H2.33872V17H5.45703Z" fill="#434656"/>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1728" height="5275" fill="white" transform="translate(-1238 -5211)"/>
+</clipPath>
+</defs>
+</svg>
