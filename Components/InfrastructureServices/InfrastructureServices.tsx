@@ -26,7 +26,9 @@ function InfrastructureServices(){
                                 <div className={`${styles.text}`}>
                                 <p>22/05/22</p>
                                     <h5>What is Epabx and How it Works?</h5>
-                                    <p>Dear Customers, We at Value Point are celebrating 3 decades of uninterrupted service to you, our amazing customers! In...</p>
+                                    <p>Dear Customers, We at Value Point are <br/>
+                                    celebrating 3 decades of uninterrupted service to<br/>
+                                     you, our amazing customers! In...</p>
                                 </div>
                         </div>
 
@@ -49,7 +51,9 @@ function InfrastructureServices(){
                                 <div className={`${styles.text}`}>
                                 <p>22/05/22</p>
                                     <h5>What is Epabx and How it Works?</h5>
-                                    <p>Dear Customers, We at Value Point are celebrating 3 decades of uninterrupted service to you, our amazing customers! In...</p>
+                                    <p>Dear Customers, We at Value Point are <br/>
+                                    celebrating 3 decades of uninterrupted service to <br/>
+                                        you, our amazing customers! In...</p>
                                 </div>
                                
                         </div>

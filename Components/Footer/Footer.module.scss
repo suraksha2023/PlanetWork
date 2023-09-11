@@ -2,16 +2,34 @@
 
     padding:10px;
     background-color: #F6F6F6;
-.socialDiv{
-   
-    .nav{
-        ul li{
-            display:inline;
-            list-style: none;
-            padding: 10px;
-        }
 
-        
+
+    .menu row{
+        ul{
+            list-style: none;
+        }
     }
-}
+
+
+    .socialDiv row{
+   
+        ul{
+            list-style: none;
+         li{
+            display:inline;
+           
+            padding: 10px;
+           }
+         }
+        
+         .nav col-md-6{
+            ul{
+                li{
+                    display: inline; 
+                }
+            }
+         }        }
+   
+        
+   
 }
