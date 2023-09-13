@@ -4,32 +4,35 @@
     background-color: #F6F6F6;
 
 
-    .menu row{
+    .menu {
         ul{
             list-style: none;
         }
     }
 
+    // .footermenu{
+    
+           
+    //         list-style: none;
 
-    .socialDiv row{
+          
+
+    // }
+
+    .socialDiv {
    
         ul{
             list-style: none;
-         li{
-            display:inline;
-           
-            padding: 10px;
+            display: flex;
+        
+        li{
+            padding: 10px;;
+        }
+             
+         
            }
          }
         
-         .nav col-md-6{
-            ul{
-                li{
-                    display: inline; 
-                }
-            }
-         }        }
-   
+    }
         
    
-}

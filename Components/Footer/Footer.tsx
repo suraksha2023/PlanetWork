@@ -8,7 +8,7 @@ import styles from "./Footer.module.scss";
                 <div className="container">
                     <div className={`${styles.menu} row`}>
 
-                                <div className="col-md-3">
+                                <div className={`${styles.footermenu} col-md-3`}>
                                     <h3>Our Company</h3>
                                         <ul>
                                             <li>About Company</li>
@@ -19,7 +19,7 @@ import styles from "./Footer.module.scss";
                                         </ul>
                                 </div>
 
-                            <div className="col-md-3">
+                                <div className={`${styles.footermenu} col-md-3`}>
                                 <h3>Our Product</h3>
                                 <ul>
                                     <li>Biometric System</li>
@@ -30,7 +30,7 @@ import styles from "./Footer.module.scss";
                                 </ul>
                             </div>
 
-                                <div className="col-md-3">
+                            <div className={`${styles.footermenu} col-md-3`}>
                                         <ul>
                                     
                                             <li>Structured Cabling</li>
@@ -41,7 +41,7 @@ import styles from "./Footer.module.scss";
                                         </ul>
                                 </div>
 
-                            <div className="col-md-3">
+                                <div className={`${styles.footermenu} col-md-3`}>
                                     <h3>Our Location</h3>
                                     <p> No. 839, First Floor, 9th Main,<br/>
                                     1st Block HRBR Layout,<br/>
@@ -58,7 +58,7 @@ import styles from "./Footer.module.scss";
                 <hr/>
                 <div className="container">               
                         <div className={`${styles.socialDiv} row`}>
-                            <div className= "col-md-6">
+                        <div className={`${styles.footermenu} col-md-6`}>
                             <ul>
                                 <li>Contact</li>
                                 <li>Privacy</li>
@@ -70,7 +70,7 @@ import styles from "./Footer.module.scss";
                     
 
                     
-                            <div className={`${styles.nav} col-md-6`}>
+                            <div className={`${styles.footermenu} col-md-6`}>
                                 <ul>
                                     <li><img src="images/facebook.png" alt=""/></li>
                                     <li><img src="images/twitter.png" alt=""/></li>
